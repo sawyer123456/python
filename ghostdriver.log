@@ -1,0 +1,33 @@
+[INFO  - 2019-07-19T11:55:58.125Z] GhostDriver - Main - running on port 50060
+[INFO  - 2019-07-19T11:56:02.522Z] Session [2e5cca30-aa1c-11e9-adec-07f64a7b52cd] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-07-19T11:56:02.522Z] Session [2e5cca30-aa1c-11e9-adec-07f64a7b52cd] - page.customHeaders:  - {}
+[INFO  - 2019-07-19T11:56:02.522Z] Session [2e5cca30-aa1c-11e9-adec-07f64a7b52cd] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-07-19T11:56:02.522Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2e5cca30-aa1c-11e9-adec-07f64a7b52cd
+[ERROR - 2019-07-19T11:56:10.270Z] Session [2e5cca30-aa1c-11e9-adec-07f64a7b52cd] - page.onError - msg: Error: Syntax error, unrecognized expression: .c-container /deep/ .c-container
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-07-19T11:56:10.271Z] Session [2e5cca30-aa1c-11e9-adec-07f64a7b52cd] - page.onError - stack:
+  error (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:52)
+  p (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:37)
+  T (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:42)
+  n (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:35)
+  find (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:105)
+  init (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:21)
+  ct (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:20)
+  (anonymous function) (:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-07-19T11:56:12.736Z] Session [2e5cca30-aa1c-11e9-adec-07f64a7b52cd] - page.onError - msg: Error: Syntax error, unrecognized expression: .c-container /deep/ .c-container
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-07-19T11:56:12.737Z] Session [2e5cca30-aa1c-11e9-adec-07f64a7b52cd] - page.onError - stack:
+  error (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:52)
+  p (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:37)
+  T (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:42)
+  n (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:35)
+  find (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:105)
+  init (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:21)
+  ct (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:20)
+  (anonymous function) (:2)
+
+  phantomjs://platform/console++.js:263 in error
